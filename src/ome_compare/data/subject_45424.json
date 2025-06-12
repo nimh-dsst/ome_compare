@@ -1,0 +1,104 @@
+{
+    "AtlasLabel": {
+        "dandi_filepath": "derivatives/AtlasLabel/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_space-orig_dseg.ome.btf",
+        "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/476/222/476222dc-a50a-416b-8fa9-b3646583122f"
+    },
+    "640_N4": {
+        "dandi_filepath": "sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_SPIM.ome.btf",
+        "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/eac/fe0/eacfe09e-3a8a-4ca5-9a36-248693139199"
+    },
+    "AtlasLabelMasked": {
+        "dandi_filepath": "derivatives/AtlasLabelMasked/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_space-orig_dseg.ome.btf",
+        "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/020/4b3/0204b328-db5c-47bf-a36d-a31204455204"
+    },
+    "FastRadialSymmetryTransform": {
+        "dandi_filepath": "derivatives/FastRadialSymmetryTransform/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_SPIM.ome.btf",
+        "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/717/198/717198cb-2825-415a-a186-c4e87e5f0bb6"
+    },
+    "FastRadialSymmetryTransformHemisphere": {
+        "dandi_filepath": "derivatives/FastRadialSymmetryTransformHemisphere/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_SPIM.ome.btf",
+        "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/0e8/b3e/0e8b3e5e-30ea-4494-a7f6-2b2323a02149"
+    },
+    "HeatmapsAtlasSpace": {
+        "dandi_filepath": "derivatives/HeatmapsAtlasSpace/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-heatmap_res-25um_SPIM.ome.btf",
+        "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/aa6/1ee/aa61eeb0-bcba-4083-b2e9-01b091a27682"
+    },
+    "FastRadialSymmetryTransformSegmentation": [
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-004000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/e9c/fb7/e9cfb7be-2304-4f98-a600-54292f8723db"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-006000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/c97/318/c973185d-3266-4f73-a8c1-3ef052f578f5"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-008000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/4fc/99e/4fc99eed-1f16-46cd-bf40-59079bbba0f8"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-010000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/592/7e5/5927e549-f7ca-44e0-be9b-b2d0d5fb0452"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-012000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/90e/5b1/90e5b14d-f856-45d9-a878-237a9c6e0c3e"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-014000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/7c5/425/7c5425c4-0e0e-4fa1-a8c5-25fba383ae21"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-016000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/b57/b59/b57b594a-a648-461b-a4c2-262521e186a9"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-018000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/16e/bb5/16ebb5fe-5d70-4c7a-9915-23b5b68837ac"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-020000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/911/72b/91172b0d-1c17-400f-bc82-36e1f16d7944"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-022000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/0b7/456/0b7456e6-b233-46d2-9c62-fb03c7de061f"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-024000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/4f7/515/4f75154f-3b00-4a9c-9f0b-3d06323edd9a"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-026000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/cda/560/cda560e5-a636-4be3-8ab9-ff527412d39d"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-028000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/1b7/7eb/1b77eb79-50fa-49da-a88a-43fa0d06d417"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-030000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/0de/278/0de278b5-6ae6-4419-a25d-31feb3541a61"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-032000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/b8e/601/b8e60157-0e25-48b5-9d6a-216d22adf5e2"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-034000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/56d/99e/56d99e2a-5e3b-43fd-9f10-a209185ad8a8"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-036000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/f56/b9a/f56b9aca-70a5-4b65-85bf-883c2f8f100e"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-038000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/bc8/050/bc8050b2-9845-49ee-b471-5b6ee7e0c2d9"
+        },
+        {
+            "dandi_filepath": "derivatives/FastRadialSymmetryTransformSegmentation/sub-45424flox/micr/sub-45424flox_sample-LeftHemisphere_acq-040000_SPIM.ome.btf",
+            "dandi_url": "https://dandiarchive.s3.amazonaws.com/blobs/f50/2b1/f502b14e-e473-4946-b594-e357100a661b"
+        }
+    ]
+}
