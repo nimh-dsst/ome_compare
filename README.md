@@ -12,7 +12,7 @@ The project provides tools to:
 
 ## Setup
 
-1. Create a virtual environment:
+### Create a virtual environment
 
 ```bash
 python -m venv .venv
@@ -21,7 +21,7 @@ source .venv/bin/activate  # On Unix/macOS
 .venv\Scripts\activate  # On Windows
 ```
 
-2. Install dependencies:
+### Install dependencies
 
 Using pip:
 
@@ -65,16 +65,16 @@ To run the comparison:
 
 1. Execute the Python scripts:
 
-```bash
-python load_ome_btf.py
-python load_as_zarr.py
-```
+    ```bash
+    python load_ome_btf.py
+    python load_as_zarr.py
+    ```
 
 2. Open and run the comparison notebook:
 
-```bash
-jupyter notebook notebooks/comparison.ipynb
-```
+    ```bash
+    jupyter notebook notebooks/comparison.ipynb
+    ```
 
 ## Results
 

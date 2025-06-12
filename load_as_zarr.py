@@ -15,7 +15,7 @@ local_filepath: Path = Path(
 local_filepath.parent.mkdir(exist_ok=True, parents=True)
 if not local_filepath.exists():
     warnings.warn(
-        f"File {local_filepath} does not exist. Downloading from {ome_tiff_url}"
+        f"File {local_filepath} not found. Downloading from {ome_tiff_url}"
     )
     download_dandi_asset(ome_tiff_url, local_filepath)
 
@@ -23,7 +23,7 @@ if not local_filepath.exists():
 @profile
 def main():
     tiff_store = tifffile.imread(local_filepath, aszarr=True, mode="r")
-    zarr_img = zarr.open(tiff_store, mode="r")
+    zarr.open(tiff_store, mode="r")
 
 
 if __name__ == "__main__":
