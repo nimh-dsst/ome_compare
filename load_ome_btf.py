@@ -21,7 +21,8 @@ if not local_filepath.exists():
 
 @profile
 def main():
-    tifffile.imread(local_filepath)
+    img = tifffile.imread(local_filepath)
+    plane = img[0, :, :]
 
 
 if __name__ == "__main__":

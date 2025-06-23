@@ -23,7 +23,8 @@ if not local_filepath.exists():
 @profile
 def main():
     tiff_store = tifffile.imread(local_filepath, aszarr=True, mode="r")
-    zarr.open(tiff_store, mode="r")
+    img = zarr.open(tiff_store, mode="r")
+    plane = img[0, :, :]
 
 
 if __name__ == "__main__":
